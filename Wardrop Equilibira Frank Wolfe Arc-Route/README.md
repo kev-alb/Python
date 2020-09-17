@@ -1,1 +1,1 @@
-Das Programm Frank_Wolfe_NEP.py war Teil meiner Masterarbeit in BWL (Operations Research) an der HU Berlin. Es berechnet das (approximierte) Wardrop-Gleichgewicht anhand des Frank-Wolfe-Algorithmus. Näheres dazu findet sich in der Programmdatei.
+Das Programm Frank_Wolfe_NEP.py war Teil meiner Masterarbeit in BWL (Operations Research) an der HU Berlin. Es berechnet das (approximierte) Wardrop-Gleichgewicht anhand des Frank-Wolfe-Algorithmus. Damit wird das Network Equilibrium Problem (NEP) in Arc-Route-Formulierung gelöst. Näheres dazu findet sich in der Programmdatei.
