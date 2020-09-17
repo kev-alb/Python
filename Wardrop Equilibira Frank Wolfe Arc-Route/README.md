@@ -1,0 +1,1 @@
+Das Programm Frank_Wolfe_NEP.py war Teil meiner Master-Thesis in BWL (Operations Research) an der HU Berlin. Es berechnet das Wardrop-Gleichgewicht mittels des Frank-Wolfe-Algorithmus. Näheres dazu findet sich in der Programmdatei.
